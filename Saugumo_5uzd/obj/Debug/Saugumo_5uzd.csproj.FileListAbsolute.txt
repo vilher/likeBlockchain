@@ -1,0 +1,12 @@
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\bin\Debug\Saugumo_5uzd.exe.config
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\bin\Debug\Saugumo_5uzd.exe
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\bin\Debug\Saugumo_5uzd.pdb
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\bin\Debug\SimpleTCP.dll
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.csproj.AssemblyReference.cache
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.Form1.resources
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.Properties.Resources.resources
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.csproj.GenerateResource.cache
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.csproj.CopyComplete
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.exe
+C:\Users\Viktorija\source\repos\Saugumo_5uzd\Saugumo_5uzd\obj\Debug\Saugumo_5uzd.pdb
